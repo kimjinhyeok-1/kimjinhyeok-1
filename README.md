@@ -17,20 +17,41 @@
 
 ## 🛠 Tech Stack
 
-### Language
-Java | Python | JavaScript | C
+### 💻 Language
 
-### Backend
-Spring Boot | REST API
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI / Data
-OpenAI API | Embedding | Vector Similarity
+---
 
-### Database
-MySQL | Oracle
+### ⚙ Backend
 
-### Tools
-Git | GitHub | Power Automate
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+
+---
+
+### 🤖 AI / Data
+
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge)
+![Embedding](https://img.shields.io/badge/Embedding-FF6F00?style=for-the-badge)
+![Vector%20Similarity](https://img.shields.io/badge/Vector%20Similarity-007ACC?style=for-the-badge)
+
+---
+
+### 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Power Automate](https://img.shields.io/badge/PowerAutomate-0066FF?style=for-the-badge)
 
 ---
 
