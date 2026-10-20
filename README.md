@@ -1,15 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:89CFF0,100:CDB4DB&height=260&section=header&text=Jinhyeok%20Kim&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Java%20%7C%20Spring%20Backend%20Developer&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:132238,100:1E3A5F&height=220&section=header&text=Jinhyeok%20Kim&fontSize=52&fontColor=F8FAFC&fontAlignY=42&desc=Java%20%7C%20Spring%20Backend%20Developer&descSize=20&descAlignY=62)
 
-### 문제를 재현하고 원인을 분석한 뒤,  
-### 동시성 · 실시간 처리 · 장애 복구 문제를 개선하는 백엔드 개발자입니다.
+### `Concurrency` · `Realtime` · `Reliability` · `Transaction`
+
+문제를 재현하고 원인을 분석한 뒤, 테스트와 수치로 개선합니다.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-kimjinhyeok--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kimjinhyeok-1)
-[![Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://developkjh.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Google%20Docs-34A853?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/13r75qhWY9OhmL4ohsbN09TKPG2AmYU8jbIZe_1XFbJM/edit)
+[![GitHub](https://img.shields.io/badge/GitHub-kimjinhyeok--1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimjinhyeok-1)
+[![Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://developkjh.tistory.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Google%20Docs-34A853?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/13r75qhWY9OhmL4ohsbN09TKPG2AmYU8jbIZe_1XFbJM/edit)
 
 </div>
 
