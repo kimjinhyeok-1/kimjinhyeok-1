@@ -72,6 +72,8 @@
 
 Java·Spring 기반 실시간 회의 서비스로, 회의·녹음·전사 API와 WebSocket·SSE·Redis 기반 실시간 처리 및 AI 요청 신뢰성 개선을 담당했습니다.
 
+🏆 **카카오테크 부트캠프 4기 최종 프로젝트 우수상**
+
 [Backend Repository](https://github.com/100-hours-a-week/KTB4-6th-BE) · [Team Wiki](https://github.com/100-hours-a-week/KTB4-6th-wiki)
 
 ### [Bamboo | 커뮤니티 서비스](https://github.com/100-hours-a-week/KTB4_Jay_Personal_Project_BE)
@@ -92,7 +94,15 @@ FastAPI·Whisper·OpenAI API를 활용해 강의 전사·요약·질의응답을
 
 ## 🏆 Awards
 
+- **우수상** · 카카오테크 부트캠프 4기 최종 프로젝트 (Meety) · 2026
 - **동상** · 창의융합 인재양성을 위한 교육장비 개발 및 아이디어 경진대회 · (사)한국실천공학교육학회 · 2025
+
+---
+
+## 🎤 Talks
+
+- **[네? 녹음만 하면 되는 것 아니였나요?](https://www.youtube.com/watch?v=n8kffcT7WhU&t=600s)** · 카카오테크 부트캠프 4기 Tech-BE 동아리 · 2026
+  - Meety의 녹음·실시간 전사 흐름을 만들며 겪은 문제와 해결 과정 발표
 
 ---
 
